@@ -1,0 +1,26 @@
+{
+  "name": "npmFilter",
+  "version": "0.0.1",
+  "description": "A filter that allows the sorting of Node Packaged Modules by a variety of parameters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/curriedav/npmFilter.git"
+  },
+  "keywords": [
+    "filter",
+    "npm",
+    "sort"
+  ],
+  "author": "David Currie",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/curriedav/npmFilter/issues"
+  },
+  "dependencies": {
+    "npm-download-counts": "0.0.0"
+  }
+}
