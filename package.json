@@ -21,6 +21,8 @@
     "url": "https://github.com/curriedav/npmFilter/issues"
   },
   "dependencies": {
-    "npm-download-counts": "0.0.0"
+    "npm-download-counts": "0.0.0",
+    "moment": "~2.4.0",
+    "assert": "~0.4.9"
   }
 }
